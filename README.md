@@ -14,7 +14,7 @@ This project aims to predict customer churn using machine learning & deep learni
 - `iframe_figures/` 📁: This file consists images of optuna analysis visualizations.
 - `main.py` 🌐: Streamlit app python file for deploying the model.
 - `requirements.txt` 📄: List of dependencies required to run the project.
-- `README.md` 📄: This file, providing an overview of the project.
+- `README.md` 📄: This file provides an overview of the project.
 
 ## 🚀 Getting Started
 
@@ -43,8 +43,8 @@ For running the Streamlit app:
 streamlit run main.py
 ```
 
-The Streamlit app is deployed on Render. To access the deployed app, visit the following link:
+>Note: The Streamlit app is deployed on Render. To access the deployed app, visit the following link:
 
-[Streamlit App on Render](https://telcom-churn-rate-prediction.onrender.com)
+[Streamlit Web App](https://telcom-churn-rate-prediction.onrender.com)
 
 Happy Predicting! 🎉
